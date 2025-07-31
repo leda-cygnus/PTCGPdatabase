@@ -60,8 +60,8 @@ A4 141,Nisota Niso,◇,Ho-Oh,Wisdom of Sea and Sky,Noctowl,164.0,Yorunozuku,ヨ�
 A4 145,Mizue,◇,Ho-Oh,Wisdom of Sea and Sky,Teddiursa,216.0,Himeguma,ヒメグマ,1.0,60,Colorless,2.0,,A4 146
 A4 146,Kouki Saitou,◇◇,Ho-Oh,Wisdom of Sea and Sky,Ursaring,217.0,Ringuma,リングマ,2.0,120,Colorless,2.0,A4 145,
 A4 147,sui,◇◇,Ho-Oh,Wisdom of Sea and Sky,Stantler,234.0,Odoshishi,オドシシ,2.0,80,Colorless,2.0,,
-A4 153,Studio Bora Inc.,◇◇,Ho-Oh,Wisdom of Sea and Sky,Steel Apron,,Haganenomaekake,鋼鉄のまえかけ,2.0,,,,,
-A4 154,Toyste Beach,◇◇,Ho-Oh,Wisdom of Sea and Sky,Dark Pendant,,Darkpendant,ダークペンダント,2.0,,,,,
+A4 153,Studio Bora Inc.,◇◇,Ho-Oh,Wisdom of Sea and Sky,Steel Apron,,Haganenomaekake,鋼鉄のまえかけ,2.0,,Supporter,,,
+A4 154,Toyste Beach,◇◇,Ho-Oh,Wisdom of Sea and Sky,Dark Pendant,,Darkpendant,ダークペンダント,2.0,,Supporter,,,
 A4 158,Hideki Ishikawa,◇◇,Ho-Oh,Wisdom of Sea and Sky,Silver,,Silver,シルバー,2.0,,Supporter,,,
 A4 160,En Morikura,◇◇,Ho-Oh,Wisdom of Sea and Sky,Jasmine,,Mikan,ミカン,2.0,,Supporter,,,
 A4 161,Hitoshi Ariga,◇◇,Ho-Oh,Wisdom of Sea and Sky,Hiker,,Yamaotoko,やまおとこ,2.0,,Supporter,,,
@@ -169,7 +169,7 @@ A4 151,Toyste Beach,◇◇,Lugia,Wisdom of Sea and Sky,Elemental Switch,,Element
 A4 152,AYUMI ODASHIMA,◇◇,Lugia,Wisdom of Sea and Sky,Squirt Bottle,,Zenigamejouro,ゼニガメじょうろ,2.0,,,,,
 A4 156,GIDORA,◇◇,Lugia,Wisdom of Sea and Sky,Will,,Itsuki,イツキ,2.0,,Supporter,,,
 A4 157,yuu,◇◇,Lugia,Wisdom of Sea and Sky,Lyra,,Kotone,コトネ,2.0,,Supporter,,,
-A4 159,Sanosuke Sakuma,◇◇,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,2.0,,,,,
+A4 159,Sanosuke Sakuma,◇◇,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,2.0,,Supporter,,,
 A4 162,Keisin,☆,Lugia,Wisdom of Sea and Sky,Chikorita,152.0,Chicorita,チコリータ,5.0,60,Grass,2.0,,A4 009
 A4 163,Yuka Tanaka,☆,Lugia,Wisdom of Sea and Sky,Bellossom,182.0,Kireihana,キレイハナ,5.0,130,Grass,2.0,A4 001;A4 002,
 A4 165,buchi,☆,Lugia,Wisdom of Sea and Sky,Cyndaquil,155.0,Hinoarashi,ヒノアラシ,5.0,60,Fire,2.0,,A4 028
@@ -237,6 +237,6 @@ A4 142,Naoyo Kimura,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Aipom,190.0,Eipam,エ�
 A4 143,Atsushi Furusawa,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ambipom,424.0,Eteboth,エテボース,2.0,100,Colorless,4.0,A4 142,
 A4 144,Kazuma Koda,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Dunsparce,206.0,Nokocchi,ノコッチ,1.0,50,Colorless,2.0,,
 A4 150,nagimiso,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Bouffalant,626.0,Buffron,バッフロン,2.0,100,Colorless,5.0,,
-A4 155,Ryo Ueda,,Ho-Oh;Lugia,Wisdom of Sea and Sky,Rescue Scarf,,Rescuescarf,レスキュースカーフ,,,Supporter,,,
+A4 155,Ryo Ueda,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Rescue Scarf,,Rescuescarf,レスキュースカーフ,2.0,,Supporter,,,
 A4 240,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,10.0,150,Fire,2.0,,
 A4 241,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,10.0,150,Colorless,2.0,,
