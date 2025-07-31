@@ -1,28 +1,22 @@
-# Import potřebných knihoven
 import requests
 from bs4 import BeautifulSoup
 import csv
 import re
 
-# URL stránky s daty karet Pokémon TCG
-url = "https://gamerant.com/pokemon-tcg-pocket-every-card-list-all-sets-full-complete-dex/"
+# URL to scrape
+url = "..."
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-} # must, bez toho to neslo
-# Odeslání HTTP požadavku na stránku
-response = requests.get(url, headers=headers)
+} # must, sometimes
 
-# Vytvoření objektu BeautifulSoup pro parsování HTML
+response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.text, "html.parser")
 
-# Seznam pro uložení všech karet (kód, název, závislosti)
 all_cards = []
-
-# Seznam pro uložení přeskočených řádků pro ladění
 skipped_rows = []
 
-# Definice evolučních řetězců pro Pokémony v TCG Pocket sadách
+# evolution chains
 evolution_chains = {
     # Generation 1
     "Bulbasaur": {"stage": 1, "evolves_to": ["Ivysaur"]},
@@ -542,80 +536,71 @@ evolution_chains = {
     "Greedent": {"stage": 2, "requires": ["Skwovet"]}
 }
 
-# Seznam karet trenérů (PA 001–008 a další, podle názvu)
+# trainers and other cards
 trainer_cards = ["Potion", "X Speed", "Hand Scope", "Pokedex", "Poke Ball", "Red Card", 
                  "Professor's Research", "Pokémon Flute", "Eevee Bag"]
 
-# Extrakce dat: Procházení všech tabulek na stránce
+# scraping
 for table in soup.find_all("table"):
-    # Získání všech řádků v tabulce
     rows = table.find_all("tr")
     i = 0
     while i < len(rows):
         try:
-            # Extrakce názvu karty (první řádek)
             name = rows[i].find("p").get_text(strip=True) if rows[i].find("p") else ""
-            # Extrakce kódu karty (druhý řádek)
             code = rows[i+1].find("p").get_text(strip=True) if i+1 < len(rows) and rows[i+1].find("p") else ""
-
-            # Kontrola, zda nejsou název nebo kód prázdné
             if not name or not code:
                 skipped_rows.append((i, f"Chybějící pole: název={name}, kód={code}"))
                 i += 1
                 continue
 
-            # Validace formátu kódu (např. A1 001, A1a 001, PA 001)
             if not re.match(r"[A-Z]+\d*[a-z]?\s*\d+", code.replace(" ", "")):
                 skipped_rows.append((i, f"Neplatný kód: {code}"))
                 i += 1
                 continue
 
-            # Přidání karty do seznamu s requires a evolves_to
             all_cards.append({"code": code, "name": name, "requires": "", "evolves_to": ""})
 
-            # Posun na další kartu: 3 řádky, pokud třetí řádek obsahuje <p>, jinak 4
             i += 3 if i+3 < len(rows) and rows[i+2].find("p") else 4
 
         except Exception:
-            # Zachycení chyb při parsování
             skipped_rows.append((i, "Chyba při parsování řádku"))
             i += 1
 
-# Transformace: Přidání závislostí pro Pokémony
+# dependencies for pokemon
 for card in all_cards:
     name = card["name"]
-    # Karty trenérů nemají závislosti
+    # trainer cards do not have dependencies
     if name in trainer_cards:
         card["requires"] = "None"
         card["evolves_to"] = "None"
-    # Pokémoni: Kontrola evolučních řetězců
+    # pokemon evolution chain check
     elif name in evolution_chains:
         chain = evolution_chains[name]
-        # Přidání requires (karty potřebné pro zahrání)
+        # add "requires"
         if chain.get("stage", 1) == 1:
-            card["requires"] = "None"  # Základní Pokémoni nemají závislosti
+            card["requires"] = "None"  # basic pokemon do not have prerequisite
         else:
             required_names = chain.get("requires", [])
             req_codes = [c["code"] for c in all_cards if c["name"] in required_names]
             card["requires"] = ";".join(req_codes) if req_codes else "None"
-        # Přidání evolves_to (karty, do kterých lze vyvinout)
+        # add "evolves_to"
         evolves_to_names = chain.get("evolves_to", [])
         evolves_codes = [c["code"] for c in all_cards if c["name"] in evolves_to_names]
         card["evolves_to"] = ";".join(evolves_codes) if evolves_codes else "None"
     else:
-        # Neznámé Pokémony nemají závislosti
+        # unknown pokemno = basic pokemon = no evolution chain
         card["requires"] = "None"
         card["evolves_to"] = "None"
 
-# Uložení dat do CSV
+# save to csv
 with open("cards.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=["code", "name", "requires", "evolves_to"])
     writer.writeheader()  # Zápis hlavičky CSV
     writer.writerows(all_cards)  # Zápis všech karet
 
-# Výpis výsledku a ladících informací
-print(f"Exportováno {len(all_cards)} karet do cards.csv")
+# output
+print(f"Extported {len(all_cards)} cards into cards.csv")
 if skipped_rows:
-    print("\nPřeskočené řádky:")
+    print("\nSkipped lines:")
     for row_idx, reason in skipped_rows:
-        print(f"Řádek {row_idx}: {reason}")
+        print(f"Line {row_idx}: {reason}")
