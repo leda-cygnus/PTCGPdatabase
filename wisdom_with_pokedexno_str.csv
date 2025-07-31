@@ -1,242 +1,242 @@
-code,illustrator,rarity,subpack,pack,name,pokedex_number,romaji_name,japanese_name,rarity_num,HP,type,generation
-A4 004,OOYAMA,◇,Ho-Oh,Wisdom of Sea and Sky,Tangela,114.0,Monjara,モンジャラ,1.0,80,Grass,1.0
-A4 005,tetsuya koizumi,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tangrowth,465.0,Mojumbo,モジャンボ,3.0,130,Grass,4.0
-A4 013,Mekayu,◇,Ho-Oh,Wisdom of Sea and Sky,Hoppip,187.0,Hanecco,ハネッコ,1.0,50,Grass,2.0
-A4 014,Kyoko Umemoto,◇◇,Ho-Oh,Wisdom of Sea and Sky,Skiploom,188.0,Popocco,ポポッコ,2.0,70,Grass,2.0
-A4 015,Kagemaru Himeno,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Jumpluff,189.0,Watacco,ワタッコ,3.0,120,Grass,2.0
-A4 022,Naoki Saito,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Heracross,214.0,Heracros,ヘラクロス,3.0,90,Grass,2.0
-A4 030,Mekayu,◇,Ho-Oh,Wisdom of Sea and Sky,Slugma,218.0,Magmag,マグマッグ,1.0,70,Fire,2.0
-A4 031,Shigenori Negishi,◇◇,Ho-Oh,Wisdom of Sea and Sky,Magcargo,219.0,Magcargot,マグカルゴ,2.0,120,Fire,2.0
-A4 032,Yukiko Baba,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Magby,240.0,Buby,ブビィ,3.0,30,Fire,2.0
-A4 033,kodama,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Entei,244.0,Entei,エンテイ,3.0,110,Fire,2.0
-A4 034,PLANETA CG Works,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,3.0,150,Fire,2.0
-A4 046,kawayoo,◇,Ho-Oh,Wisdom of Sea and Sky,Totodile,158.0,Waninoko,ワニノコ,1.0,6%,Water,2.0
-A4 047,Naoki Saito,◇◇,Ho-Oh,Wisdom of Sea and Sky,Croconaw,159.0,Alligates,アリゲイツ,2.0,90,Water,2.0
-A4 048,nagimiso,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Feraligatr,160.0,Ordile,オーダイル,3.0,150,Water,2.0
-A4 049,Atsuko Nishida,◇,Ho-Oh,Wisdom of Sea and Sky,Marill,183.0,Maril,マリル,1.0,60,Water,2.0
-A4 050,Naoyo Kimura,◇◇,Ho-Oh,Wisdom of Sea and Sky,Azumarill,184.0,Marilli,マリルリ,2.0,110,Water,2.0
-A4 057,Narumi Sato,◇◇,Ho-Oh,Wisdom of Sea and Sky,Delibird,225.0,Delibird,デリバード,2.0,70,Water,2.0
-A4 062,MAHOU,◇,Ho-Oh,Wisdom of Sea and Sky,Ducklett,580.0,Koaruhie,コアルヒー,1.0,60,Water,5.0
-A4 063,chibi,◇◇,Ho-Oh,Wisdom of Sea and Sky,Swanna,581.0,Swanna,スワンナ,2.0,80,Water,5.0
-A4 071,Kazumasa Yasukuni,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Raikou,243.0,Raikou,ライコウ,3.0,90,Electric,2.0
-A4 075,Sumiyoshi Kizuki,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Smoochum,238.0,Muchul,ムチュール,3.0,30,Psychic,2.0
-A4 078,Sekio,◇,Ho-Oh,Wisdom of Sea and Sky,Togepi,175.0,Togepy,トゲピー,1.0,60,Psychic,2.0
-A4 079,Atsuko Nishida,◇◇,Ho-Oh,Wisdom of Sea and Sky,Togetic,176.0,Togechick,トゲチック,2.0,90,Psychic,2.0
-A4 080,sui,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Togekiss,468.0,Togekiss,トゲキッス,3.0,140,Psychic,4.0
-A4 084,OKUBO,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Unown,201.0,Unknown,アンノーン,3.0,60,Psychic,2.0
-A4 087,Miki Tanaka,◇,Ho-Oh,Wisdom of Sea and Sky,Girafarig,203.0,Kirinriki,キリンリキ,1.0,80,Psychic,2.0
-A4 092,KEIICHIRO ITO,◇,Ho-Oh,Wisdom of Sea and Sky,Onix,95.0,Iwark,イワーク,1.0,100,Fighting,1.0
-A4 094,Mina Nakai,◇,Ho-Oh,Wisdom of Sea and Sky,Gligar,207.0,Gliger,グライガー,1.0,60,Fighting,2.0
-A4 095,Shiburingaru,◇◇,Ho-Oh,Wisdom of Sea and Sky,Gliscor,472.0,Glion,グライオン,2.0,100,Fighting,4.0
-A4 096,Yukiko Baba,◇,Ho-Oh,Wisdom of Sea and Sky,Swinub,220.0,Urimoo,ウリムー,1.0,70,Fighting,2.0
-A4 097,Midori Harada,◇◇,Ho-Oh,Wisdom of Sea and Sky,Piloswine,221.0,Inomoo,イノムー,2.0,100,Fighting,2.0
-A4 098,Uta,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Mamoswine,222.0,Mammoo,マンムー,3.0,160,Fighting,2.0
-A4 099,Midori Harada,◇,Ho-Oh,Wisdom of Sea and Sky,Phanpy,231.0,Gomazou,ゴマゾウ,1.0,70,Fighting,2.0
-A4 100,PLANETA Yamashita,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,3.0,160,Fighting,2.0
-A4 101,Mina Nakai,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tyrogue,236.0,Balkie,バルキー,3.0,30,Fighting,2.0
-A4 103,Naoyo Kimura,◇,Ho-Oh,Wisdom of Sea and Sky,Larvitar,246.0,Yogiras,ヨーギラス,1.0,60,Fighting,2.0
-A4 104,Sekio,◇◇,Ho-Oh,Wisdom of Sea and Sky,Pupitar,247.0,Sanagiras,サナギラス,2.0,80,Fighting,2.0
-A4 107,Shigenori Negishi,◇,Ho-Oh,Wisdom of Sea and Sky,Zubat,41.0,Zubat,ズバット,1.0,50,Darkness,1.0
-A4 108,kawayoo,◇◇,Ho-Oh,Wisdom of Sea and Sky,Golbat,42.0,Golbat,ゴルバット,2.0,70,Darkness,1.0
-A4 109,PLANETA CG Works,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,4.0,170,Darkness,2.0
-A4 110,Sachiko Adachi,◇,Ho-Oh,Wisdom of Sea and Sky,Spinarak,167.0,Itomaru,イトマル,1.0,60,Darkness,2.0
-A4 111,Shinji Kanda,◇◇,Ho-Oh,Wisdom of Sea and Sky,Ariados,168.0,Ariados,アリアドス,2.0,80,Darkness,2.0
-A4 112,PLANETA CG Works,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,4.0,140,Darkness,2.0
-A4 119,Hasuno,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tyranitar,248.0,Bangiras,バンギラス,3.0,160,Darkness,2.0
-A4 122,KEIICHIRO ITO,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Steelix,208.0,Haganeil,ハガネール,3.0,150,Metal,2.0
-A4 124,PLANETA Yamashita,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,4.0,140,Metal,2.0
-A4 126,Akira Komayama,◇,Ho-Oh,Wisdom of Sea and Sky,Klink,599.0,Giaru,ギアル,1.0,60,Metal,5.0
-A4 127,Akira Komayama,◇◇,Ho-Oh,Wisdom of Sea and Sky,Klang,600.0,Gigiaru,ギギアル,2.0,40,Metal,5.0
-A4 128,Akira Komayama,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Klinklang,601.0,Gigigiaru,ギギギアル,3.0,70,Metal,5.0
-A4 129,Shin Nagasawa,◇,Ho-Oh,Wisdom of Sea and Sky,Spearow,21.0,Onisuzume,オニスズメ,1.0,70,Colorless,1.0
-A4 130,Shin Nagasawa,◇,Ho-Oh,Wisdom of Sea and Sky,Fearow,22.0,Onidrill,オニドリル,1.0,90,Colorless,1.0
-A4 131,miki kudo,◇,Ho-Oh,Wisdom of Sea and Sky,Chansey,113.0,Lucky,ラッキー,1.0,100,Colorless,1.0
-A4 132,Mizue,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Blissey,242.0,Happinas,ハピナス,3.0,150,Colorless,2.0
-A4 133,Toshinao Aoki,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Kangaskhan,115.0,Garura,ガルーラ,3.0,100,Colorless,1.0
-A4 138,Mina Nakai,◇,Ho-Oh,Wisdom of Sea and Sky,Sentret,161.0,Otachi,オタチ,1.0,60,Colorless,2.0
-A4 139,tetsuya koizumi,◇,Ho-Oh,Wisdom of Sea and Sky,Furret,162.0,Ootachi,オオタチ,1.0,90,Colorless,2.0
-A4 140,Yumi,◇,Ho-Oh,Wisdom of Sea and Sky,Hoothoot,163.0,Hoho,ホーホー,1.0,50,Colorless,2.0
-A4 141,Nisota Niso,◇,Ho-Oh,Wisdom of Sea and Sky,Noctowl,164.0,Yorunozuku,ヨルノズク,1.0,100,Colorless,2.0
-A4 145,Mizue,◇,Ho-Oh,Wisdom of Sea and Sky,Teddiursa,216.0,Himeguma,ヒメグマ,1.0,60,Colorless,2.0
-A4 146,Kouki Saitou,◇◇,Ho-Oh,Wisdom of Sea and Sky,Ursaring,217.0,Ringuma,リングマ,2.0,120,Colorless,2.0
-A4 147,sui,◇◇,Ho-Oh,Wisdom of Sea and Sky,Stantler,234.0,Odoshishi,オドシシ,2.0,80,Colorless,2.0
-A4 153,Studio Bora Inc.,◇◇,Ho-Oh,Wisdom of Sea and Sky,Steel Apron,,Haganenomaekake,鋼鉄のまえかけ,2.0,,,
-A4 154,Toyste Beach,◇◇,Ho-Oh,Wisdom of Sea and Sky,Dark Pendant,,Darkpendant,ダークペンダント,2.0,,,
-A4 158,Hideki Ishikawa,◇◇,Ho-Oh,Wisdom of Sea and Sky,Silver,,Silver,シルバー,2.0,,Supporter,
-A4 160,En Morikura,◇◇,Ho-Oh,Wisdom of Sea and Sky,Jasmine,,Mikan,ミカン,2.0,,Supporter,
-A4 161,Hitoshi Ariga,◇◇,Ho-Oh,Wisdom of Sea and Sky,Hiker,,Yamaotoko,やまおとこ,2.0,,Supporter,
-A4 164,GOSSAN,☆,Ho-Oh,Wisdom of Sea and Sky,Heracross,214.0,Heracros,ヘラクロス,5.0,90,Grass,2.0
-A4 166,Makura Tami,☆,Ho-Oh,Wisdom of Sea and Sky,Magby,240.0,Buby,ブビィ,5.0,30,Fire,2.0
-A4 167,Ayako Ozaki,☆,Ho-Oh,Wisdom of Sea and Sky,Totodile,158.0,Waninoko,ワニノコ,5.0,60,Water,2.0
-A4 170,Mekayu,☆,Ho-Oh,Wisdom of Sea and Sky,Delibird,225.0,Delibird,デリバード,5.0,70,Water,2.0
-A4 173,Terada Tera,☆,Ho-Oh,Wisdom of Sea and Sky,Togepi,175.0,Togepy,トゲピー,5.0,60,Psychic,2.0
-A4 176,HYOGONOSUKE,☆,Ho-Oh,Wisdom of Sea and Sky,Gligar,207.0,Gliger,グライガー,5.0,60,Fighting,2.0
-A4 177,IKEDA Saki,☆,Ho-Oh,Wisdom of Sea and Sky,Spinarak,167.0,Itomaru,イトマル,5.0,60,Darkness,2.0
-A4 179,Saboteri,☆,Ho-Oh,Wisdom of Sea and Sky,Tyranitar,248.0,Bangiras,バンギラス,5.0,160,Darkness,2.0
-A4 181,saino misaki,☆,Ho-Oh,Wisdom of Sea and Sky,Sentret,161.0,Otachi,オタチ,5.0,60,Colorless,2.0
-A4 182,Uninori,☆,Ho-Oh,Wisdom of Sea and Sky,Hoothoot,163.0,Hoho,ホーホー,5.0,50,Colorless,2.0
-A4 183,Noriaki Tanimura,☆,Ho-Oh,Wisdom of Sea and Sky,Stantler,234.0,Odoshishi,オドシシ,5.0,80,Colorless,2.0
-A4 185,MINAMINAMI Take,☆,Ho-Oh,Wisdom of Sea and Sky,Blissey,242.0,Happinas,ハピナス,5.0,150,Colorless,2.0
-A4 187,PLANETA CG Works,☆☆,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,6.0,150,Fire,2.0
-A4 191,PLANETA Yamashita,☆☆,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,6.0,160,Fighting,2.0
-A4 192,PLANETA Mochizuki,☆☆,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,6.0,170,Darkness,2.0
-A4 193,PLANETA CG Works,☆☆,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,6.0,140,Darkness,2.0
-A4 194,PLANETA Igarashi,☆☆,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,6.0,140,Metal,2.0
-A4 198,Teeziro,☆☆,Ho-Oh,Wisdom of Sea and Sky,Silver,,Silver,シルバー,6.0,,Supporter,
-A4 200,En Morikura,☆☆,Ho-Oh,Wisdom of Sea and Sky,Jasmine,,Mikan,ミカン,6.0,,Supporter,
-A4 201,Hideki Ishikawa,☆☆,Ho-Oh,Wisdom of Sea and Sky,Hiker,,Yamaotoko,やまおとこ,6.0,,Supporter,
-A4 206,Yuriko Akase,☆☆,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,6.0,160,Fighting,2.0
-A4 207,Shinji Kanda,☆☆,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,6.0,170,Darkness,2.0
-A4 208,AKIRA EGAWA,☆☆,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,6.0,140,Darkness,2.0
-A4 209,toriyufu,☆☆,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,6.0,140,Metal,2.0
-A4 210,SIE NANAHARA,☆☆☆,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,7.0,150,Fire,2.0
-A4 212,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Yanma,193.0,Yanyanma,ヤンヤンマ,8.0,60,Grass,2.0
-A4 213,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Flareon,136.0,Booster,ブースター,8.0,110,Fire,1.0
-A4 220,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Misdreavus,200.0,Muma,ムウマ,8.0,60,Psychic,2.0
-A4 221,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Mankey,56.0,Mankey,マンキー,8.0,50,Fighting,1.0
-A4 222,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Primeape,57.0,Okorizaru,オコリザル,8.0,90,Fighting,1.0
-A4 226,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidoran♂,32.0,Nidoran♂ニドラン♂,,8.0,60,Darkness,1.0
-A4 227,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidorino,33.0,Nidorino,ニドリーノ,8.0,90,Darkness,1.0
-A4 228,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidoking,34.0,Nidoking,ニドキング,8.0,150,Darkness,1.0
-A4 230,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Lickitung,108.0,Beroringa,ベロリンガ,8.0,80,Colorless,1.0
-A4 231,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Eevee,133.0,Eievui,イーブイ,8.0,60,Colorless,1.0
-A4 232,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Yanmega ex,469.0,Megayanma,メガヤンマ,9.0,140,Grass,4.0
-A4 233,PLANETA CG Works,✸✸,Ho-Oh,Wisdom of Sea and Sky,Leafeon ex,470.0,Leafia,リーフィア,9.0,140,Grass,4.0
-A4 237,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Mismagius ex,429.0,Mumargi,ムウマージ,9.0,140,Psychic,4.0
-A4 239,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Lickilicky ex,463.0,Berobelt,ベロベルト,9.0,160,Colorless,4.0
-A4 001,ryoma uratsuka,◇,Lugia,Wisdom of Sea and Sky,Oddish,43.0,Nazonokusa,ナゾノクサ,1.0,50,Grass,1.0
-A4 002,Kyoko Umemoto,◇◇,Lugia,Wisdom of Sea and Sky,Gloom,44.0,Kusaihana,クサイハナ,2.0,80,Grass,1.0
-A4 003,Nagomi Nijo,◇◇◇,Lugia,Wisdom of Sea and Sky,Bellossom,182.0,Kireihana,キレイハナ,3.0,130,Grass,2.0
-A4 006,Narumi Sato,◇,Lugia,Wisdom of Sea and Sky,Scyther,123.0,Strike,ストライク,1.0,70,Grass,1.0
-A4 007,Toshinao Aoki,◇,Lugia,Wisdom of Sea and Sky,Pinsir,127.0,Kailios,カイロス,1.0,90,Grass,1.0
-A4 008,Naoyo Kimura,◇,Lugia,Wisdom of Sea and Sky,Chikorita,152.0,Chicorita,チコリータ,1.0,60,Grass,2.0
-A4 009,Mizue,◇◇,Lugia,Wisdom of Sea and Sky,Bayleef,153.0,Bayleaf,ベイリーフ,2.0,90,Grass,2.0
-A4 010,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Meganium,154.0,Meganium,メガニウム,3.0,150,Grass,2.0
-A4 011,Sumiyoshi Kizuki,◇,Lugia,Wisdom of Sea and Sky,Ledyba,165.0,Rediba,レディバ,1.0,60,Grass,2.0
-A4 012,Hitoshi Ariga,◇,Lugia,Wisdom of Sea and Sky,Ledian,166.0,Redian,レディアン,1.0,80,Grass,2.0
-A4 021,PLANETA Mochizuki,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,4.0,120,Grass,2.0
-A4 025,Shibuzoh.,◇,Lugia,Wisdom of Sea and Sky,Vulpix,37.0,Rokon,ロコン,1.0,60,Fire,1.0
-A4 026,AKIRA EGAWA,◇◇◇,Lugia,Wisdom of Sea and Sky,Ninetales,38.0,Kyukon,キュウコン,3.0,100,Fire,1.0
-A4 027,kirisAki,◇,Lugia,Wisdom of Sea and Sky,Cyndaquil,155.0,Hinoarashi,ヒノアラシ,1.0,60,Fire,2.0
-A4 028,Shin Nagasawa,◇◇,Lugia,Wisdom of Sea and Sky,Quilava,156.0,Magmarashi,マグマラシ,2.0,80,Fire,2.0
-A4 029,Hideki Ishikawa,◇◇◇,Lugia,Wisdom of Sea and Sky,Typhlosion,157.0,Bakphoon,バクフーン,3.0,140,Fire,2.0
-A4 038,Asako Ito,◇,Lugia,Wisdom of Sea and Sky,Poliwag,60.0,Nyoromo,ニョロモ,1.0,60,Water,1.0
-A4 039,Scav,◇◇,Lugia,Wisdom of Sea and Sky,Poliwhirl,61.0,Nyorozo,ニョロゾ,2.0,90,Water,1.0
-A4 040,Masakazu Fukuda,◇◇◇,Lugia,Wisdom of Sea and Sky,Politoed,186.0,Nyorotono,ニョロトノ,3.0,140,Water,2.0
-A4 041,Yukiko Baba,◇,Lugia,Wisdom of Sea and Sky,Horsea,116.0,Tattu,タッツー,1.0,50,Water,1.0
-A4 042,sui,◇◇,Lugia,Wisdom of Sea and Sky,Seadra,117.0,Seadra,シードラ,2.0,80,Water,1.0
-A4 043,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,4.0,170,Water,2.0
-A4 044,Shigenori Negishi,◇,Lugia,Wisdom of Sea and Sky,Magikarp,129.0,Koiking,コイキング,1.0,30,Water,1.0
-A4 045,hatachu,◇◇◇,Lugia,Wisdom of Sea and Sky,Gyarados,130.0,Gyarados,ギャラドス,3.0,130,Water,1.0
-A4 051,Shibuzoh.,◇,Lugia,Wisdom of Sea and Sky,Wooper,194.0,Upah,ウパー,1.0,70,Water,2.0
-A4 052,Kagemaru Himeno,◇◇,Lugia,Wisdom of Sea and Sky,Quagsire,195.0,Nuoh,ヌオー,2.0,130,Water,2.0
-A4 053,Shin Nagasawa,◇◇,Lugia,Wisdom of Sea and Sky,Qwilfish,211.0,Harysen,ハリーセン,2.0,80,Water,2.0
-A4 054,Mekayu,◇,Lugia,Wisdom of Sea and Sky,Corsola,222.0,Sunnygo,サニーゴ,1.0,80,Water,2.0
-A4 055,Suwama Chiaki,◇,Lugia,Wisdom of Sea and Sky,Remoraid,223.0,Teppouo,テッポウオ,1.0,60,Water,2.0
-A4 056,Kagemaru Himeno,◇◇◇,Lugia,Wisdom of Sea and Sky,Octillery,224.0,Okutank,オクタン,3.0,100,Water,2.0
-A4 058,0313,◇◇,Lugia,Wisdom of Sea and Sky,Mantine,226.0,Mantain,マンタイン,2.0,100,Water,2.0
-A4 059,Anesaki Dynamic,◇◇◇,Lugia,Wisdom of Sea and Sky,Suicune,245.0,Suicune,スイクン,3.0,100,Water,2.0
-A4 060,chibi,◇,Lugia,Wisdom of Sea and Sky,Corphish,341.0,Heigani,ヘイガニ,1.0,60,Water,3.0
-A4 061,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Crawdaunt,342.0,Shizariger,シザリガー,3.0,100,Water,3.0
-A4 064,Miki Tanaka,◇,Lugia,Wisdom of Sea and Sky,Chinchou,170.0,Chonchie,チョンチー,1.0,70,Electric,2.0
-A4 065,PLANETA Igarashi,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,4.0,150,Electric,2.0
-A4 066,Kariya,◇◇◇,Lugia,Wisdom of Sea and Sky,Pichu,172.0,Pichu,ピチュー,3.0,30,Electric,2.0
-A4 067,0313,◇,Lugia,Wisdom of Sea and Sky,Mareep,179.0,Merriep,メリープ,1.0,60,Electric,2.0
-A4 068,MAHOU,◇◇,Lugia,Wisdom of Sea and Sky,Flaaffy,180.0,Mokoko,モココ,2.0,90,Electric,2.0
-A4 069,Kouki Saitou,◇◇◇,Lugia,Wisdom of Sea and Sky,Ampharos,181.0,Denryu,デンリュウ,3.0,150,Electric,2.0
-A4 070,Miki Tanaka,◇◇◇,Lugia,Wisdom of Sea and Sky,Elekid,239.0,Elekid,エレキッド,3.0,30,Electric,2.0
-A4 073,Aya Kusube,◇,Lugia,Wisdom of Sea and Sky,Slowpoke,79.0,Yadon,ヤドン,1.0,70,Psychic,1.0
-A4 074,Kagemaru Himeno,◇◇,Lugia,Wisdom of Sea and Sky,Slowking,199.0,Yadoking,ヤドキング,2.0,110,Psychic,2.0
-A4 077,Orca,◇◇◇,Lugia,Wisdom of Sea and Sky,Cleffa,173.0,Py,ピィ,3.0,30,Psychic,2.0
-A4 081,Masakazu Fukuda,◇,Lugia,Wisdom of Sea and Sky,Natu,177.0,Naty,ネイティ,1.0,50,Psychic,2.0
-A4 082,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Xatu,178.0,Natio,ネイティオ,3.0,80,Psychic,2.0
-A4 083,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,4.0,140,Psychic,2.0
-A4 085,Anesaki Dynamic,◇◇◇,Lugia,Wisdom of Sea and Sky,Unown,201.0,Unknown,アンノーン,3.0,60,Psychic,2.0
-A4 086,Masakazu Fukuda,◇,Lugia,Wisdom of Sea and Sky,Wobbuffet,202.0,Sonans,ソーナンス,1.0,90,Psychic,2.0
-A4 105,Saya Tsuruta,◇,Lugia,Wisdom of Sea and Sky,Binacle,688.0,Kametete,カメテテ,1.0,80,Fighting,6.0
-A4 106,Nurikabe,◇◇,Lugia,Wisdom of Sea and Sky,Barbaracle,689.0,Gamenodes,ガメノデス,2.0,120,Fighting,6.0
-A4 113,Sekio,◇,Lugia,Wisdom of Sea and Sky,Murkrow,198.0,Yamikarasu,ヤミカラス,1.0,60,Darkness,2.0
-A4 114,Shiburingaru,◇◇,Lugia,Wisdom of Sea and Sky,Honchkrow,430.0,Dongkarasu,ドンカラス,2.0,120,Darkness,4.0
-A4 115,yuu,◇,Lugia,Wisdom of Sea and Sky,Sneasel,215.0,Nyula,ニューラ,1.0,60,Darkness,2.0
-A4 116,kawayoo,◇◇,Lugia,Wisdom of Sea and Sky,Weavile,461.0,Manyula,マニューラ,2.0,80,Darkness,4.0
-A4 123,Ryuta Fuse,◇◇◇,Lugia,Wisdom of Sea and Sky,Scizor,212.0,Hassam,ハッサム,3.0,100,Metal,2.0
-A4 135,ryoma uratsuka,◇,Lugia,Wisdom of Sea and Sky,Porygon,137.0,Porygon,ポリゴン,1.0,60,Colorless,1.0
-A4 136,Nagomi Nijo,◇◇,Lugia,Wisdom of Sea and Sky,Porygon2,233.0,Porygon2,ポリゴン２,2.0,80,Colorless,2.0
-A4 137,Tomokazu Komiya,◇◇◇,Lugia,Wisdom of Sea and Sky,Porygon-Z,474.0,Porygon-z,ポリゴンＺ,3.0,130,Colorless,4.0
-A4 148,Sumiyoshi Kizuki,◇◇,Lugia,Wisdom of Sea and Sky,Smeargle,235.0,Doble,ドーブル,2.0,70,Colorless,2.0
-A4 149,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,4.0,150,Colorless,2.0
-A4 151,Toyste Beach,◇◇,Lugia,Wisdom of Sea and Sky,Elemental Switch,,Elementaltsukekae,エレメンタルつけかえ,2.0,,,
-A4 152,AYUMI ODASHIMA,◇◇,Lugia,Wisdom of Sea and Sky,Squirt Bottle,,Zenigamejouro,ゼニガメじょうろ,2.0,,,
-A4 156,GIDORA,◇◇,Lugia,Wisdom of Sea and Sky,Will,,Itsuki,イツキ,2.0,,Supporter,
-A4 157,yuu,◇◇,Lugia,Wisdom of Sea and Sky,Lyra,,Kotone,コトネ,2.0,,Supporter,
-A4 159,Sanosuke Sakuma,◇◇,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,2.0,,,
-A4 162,Keisin,☆,Lugia,Wisdom of Sea and Sky,Chikorita,152.0,Chicorita,チコリータ,5.0,60,Grass,2.0
-A4 163,Yuka Tanaka,☆,Lugia,Wisdom of Sea and Sky,Bellossom,182.0,Kireihana,キレイハナ,5.0,130,Grass,2.0
-A4 165,buchi,☆,Lugia,Wisdom of Sea and Sky,Cyndaquil,155.0,Hinoarashi,ヒノアラシ,5.0,60,Fire,2.0
-A4 168,June,☆,Lugia,Wisdom of Sea and Sky,Qwilfish,211.0,Harysen,ハリーセン,5.0,80,Water,2.0
-A4 169,REND,☆,Lugia,Wisdom of Sea and Sky,Octillery,224.0,Okutank,オクタン,5.0,100,Water,2.0
-A4 171,Kanami Ogata,☆,Lugia,Wisdom of Sea and Sky,Pichu,172.0,Pichu,ピチュー,5.0,30,Electric,2.0
-A4 172,Whisker,☆,Lugia,Wisdom of Sea and Sky,Ampharos,181.0,Denryu,デンリュウ,5.0,150,Electric,2.0
-A4 174,Masako Tomii,☆,Lugia,Wisdom of Sea and Sky,Xatu,178.0,Natio,ネイティオ,5.0,80,Psychic,2.0
-A4 175,GOTO minori,☆,Lugia,Wisdom of Sea and Sky,Wobbuffet,202.0,Sonans,ソーナンス,5.0,90,Psychic,2.0
-A4 178,kamonabe,☆,Lugia,Wisdom of Sea and Sky,Murkrow,198.0,Yamikarasu,ヤミカラス,5.0,60,Darkness,2.0
-A4 180,danciao,☆,Lugia,Wisdom of Sea and Sky,Scizor,212.0,Hassam,ハッサム,5.0,100,Metal,2.0
-A4 184,MINAMINAMI Take,☆,Lugia,Wisdom of Sea and Sky,Smeargle,235.0,Doble,ドーブル,5.0,70,Colorless,2.0
-A4 186,PLANETA Mochizuki,☆☆,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,6.0,120,Grass,2.0
-A4 188,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,6.0,170,Water,2.0
-A4 189,PLANETA Igarashi,☆☆,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,6.0,150,Electric,2.0
-A4 190,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,6.0,140,Psychic,2.0
-A4 195,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,6.0,150,Colorless,2.0
-A4 196,GIDORA,☆☆,Lugia,Wisdom of Sea and Sky,Will,,Itsuki,イツキ,6.0,,Supporter,
-A4 197,yuu,☆☆,Lugia,Wisdom of Sea and Sky,Lyra,,Kotone,コトネ,6.0,,Supporter,
-A4 199,Sanosuke Sakuma,☆☆,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,6.0,,Supporter,
-A4 202,Yoshimi Miyoshi,☆☆,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,6.0,120,Grass,2.0
-A4 203,Takumi Wada,☆☆,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,6.0,170,Water,2.0
-A4 204,Fujimoto Gold,☆☆,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,6.0,150,Electric,2.0
-A4 205,Taira Akitsu,☆☆,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,6.0,140,Psychic,2.0
-A4 211,SIE NANAHARA,☆☆☆,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,7.0,150,Colorless,2.0
-A4 214,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Magikarp,129.0,Koiking,コイキング,8.0,30,Water,1.0
-A4 215,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Gyarados,130.0,Gyarados,ギャラドス,8.0,130,Water,1.0
-A4 216,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Vaporeon,134.0,Showers,シャワーズ,8.0,130,Water,1.0
-A4 217,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Magnemite,81.0,Coil,コイル,8.0,60,Electric,1.0
-A4 218,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Magneton,82.0,Rarecoil,レアコイル,8.0,80,Electric,1.0
-A4 219,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Jolteon,135.0,Thunders,サンダース,8.0,90,Electric,1.0
-A4 223,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidoran ♀,29.0,Nidoran♀ニドラン♀,,8.0,60,Darkness,1.0
-A4 224,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidorina,30.0,Nidorina,ニドリーナ,8.0,80,Darkness,1.0
-A4 225,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidoqueen,31.0,Nidoqueen,ニドクイン,8.0,140,Darkness,1.0
-A4 229,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Sneasel,215.0,Nyula,ニューラ,8.0,60,Darkness,2.0
-A4 234,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Gyarados ex,130.0,Gyarados,ギャラドス,9.0,180,Water,1.0
-A4 235,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Glaceon ex,471.0,Glacia,グレイシア,9.0,140,Water,4.0
-A4 236,PLANETA Tsuji,✸✸,Lugia,Wisdom of Sea and Sky,Pachirisu ex,417.0,Pachirisu,パチリス,9.0,120,Electric,4.0
-A4 238,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Weavile ex,461.0,Manyula,マニューラ,9.0,140,Darkness,4.0
-A4 016,0313,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sunkern,191.0,Himanuts,ヒマナッツ,1.0,40,Grass,2.0
-A4 017,Yumi,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sunflora,192.0,Kimawari,キマワリ,2.0,90,Grass,2.0
-A4 018,Tomokazu Komiya,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Yanma,193.0,Yanyanma,ヤンヤンマ,1.0,60,Grass,2.0
-A4 019,Uta,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Yanmega,469.0,Megayanma,メガヤンマ,2.0,90,Grass,4.0
-A4 020,Suwama Chiaki,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Pineco,204.0,Kunugidama,クヌギダマ,1.0,60,Grass,2.0
-A4 023,Saya Tsuruta,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Cherubi,420.0,Cherinbo,チェリンボ,1.0,50,Grass,4.0
-A4 024,Atsuko Nishida,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Cherrim,421.0,Cherrim,チェリム,2.0,80,Grass,4.0
-A4 035,Yuka Morii,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Darumaka,554.0,Darumakka,ダルマッカ,1.0,70,Fire,5.0
-A4 036,Naoki Saito,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Darmanitan,555.0,Hihidaruma,ヒヒダルマ,2.0,120,Fire,5.0
-A4 037,match,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Heatmor,631.0,Kuitaran,クイタラン,1.0,90,Fire,5.0
-A4 072,Saya Tsuruta,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Emolga,587.0,Emonga,エモンガ,1.0,70,Electric,5.0
-A4 076,Midori Harada,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Jynx,124.0,Rougela,ルージュラ,1.0,80,Psychic,1.0
-A4 088,Akira Komayama,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Snubbull,209.0,Bulu,ブルー,1.0,60,Psychic,2.0
-A4 089,Suwama Chiaki,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Granbull,210.0,Granbulu,グランブル,2.0,120,Psychic,2.0
-A4 090,miki kudo,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Munna,517.0,Munna,ムンナ,1.0,70,Psychic,5.0
-A4 091,MAHOU,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Musharna,518.0,Musharna,ムシャーナ,2.0,110,Psychic,5.0
-A4 093,AKIRA EGAWA,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sudowoodo,185.0,Usokkie,ウソッキー,1.0,90,Fighting,2.0
-A4 102,Hisao Nakamura,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Hitmontop,237.0,Kapoerer,カポエラー,1.0,80,Fighting,2.0
-A4 117,Sumiyoshi Kizuki,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Houndour,228.0,Delvil,デルビル,1.0,60,Darkness,2.0
-A4 118,Shin Nagasawa,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Houndoom,229.0,Hellgar,ヘルガー,2.0,110,Darkness,2.0
-A4 120,kodama,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Absol,359.0,Absol,アブソル,2.0,80,Darkness,3.0
-A4 121,Tomokazu Komiya,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Forretress,205.0,Foretos,フォレトス,2.0,130,Metal,2.0
-A4 125,Kouki Saitou,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Mawile,303.0,Kucheat,クチート,1.0,70,Metal,3.0
-A4 134,sowsow,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Eevee,133.0,Eievui,イーブイ,1.0,60,Colorless,1.0
-A4 142,Naoyo Kimura,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Aipom,190.0,Eipam,エイパム,1.0,50,Colorless,2.0
-A4 143,Atsushi Furusawa,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ambipom,424.0,Eteboth,エテボース,2.0,100,Colorless,4.0
-A4 144,Kazuma Koda,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Dunsparce,206.0,Nokocchi,ノコッチ,1.0,50,Colorless,2.0
-A4 150,nagimiso,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Bouffalant,626.0,Buffron,バッフロン,2.0,100,Colorless,5.0
-A4 155,Ryo Ueda,,Ho-Oh;Lugia,Wisdom of Sea and Sky,Rescue Scarf,,Rescuescarf,レスキュースカーフ,,,Supporter,
-A4 240,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,10.0,150,Fire,2.0
-A4 241,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,10.0,150,Colorless,2.0
+code,illustrator,rarity,subpack,pack,name,pokedex_number,romaji_name,japanese_name,rarity_num,HP,type,generation,requires,evolves_to
+A4 004,OOYAMA,◇,Ho-Oh,Wisdom of Sea and Sky,Tangela,114.0,Monjara,モンジャラ,1.0,80,Grass,1.0,,A4 005
+A4 005,tetsuya koizumi,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tangrowth,465.0,Mojumbo,モジャンボ,3.0,130,Grass,4.0,A4 004,
+A4 013,Mekayu,◇,Ho-Oh,Wisdom of Sea and Sky,Hoppip,187.0,Hanecco,ハネッコ,1.0,50,Grass,2.0,,A4 014
+A4 014,Kyoko Umemoto,◇◇,Ho-Oh,Wisdom of Sea and Sky,Skiploom,188.0,Popocco,ポポッコ,2.0,70,Grass,2.0,A4 013,A4 015
+A4 015,Kagemaru Himeno,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Jumpluff,189.0,Watacco,ワタッコ,3.0,120,Grass,2.0,A4 013;A4 014,
+A4 022,Naoki Saito,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Heracross,214.0,Heracros,ヘラクロス,3.0,90,Grass,2.0,,
+A4 030,Mekayu,◇,Ho-Oh,Wisdom of Sea and Sky,Slugma,218.0,Magmag,マグマッグ,1.0,70,Fire,2.0,,A4 031
+A4 031,Shigenori Negishi,◇◇,Ho-Oh,Wisdom of Sea and Sky,Magcargo,219.0,Magcargot,マグカルゴ,2.0,120,Fire,2.0,A4 030,
+A4 032,Yukiko Baba,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Magby,240.0,Buby,ブビィ,3.0,30,Fire,2.0,,
+A4 033,kodama,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Entei,244.0,Entei,エンテイ,3.0,110,Fire,2.0,,
+A4 034,PLANETA CG Works,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,3.0,150,Fire,2.0,,
+A4 046,kawayoo,◇,Ho-Oh,Wisdom of Sea and Sky,Totodile,158.0,Waninoko,ワニノコ,1.0,6%,Water,2.0,,A4 047
+A4 047,Naoki Saito,◇◇,Ho-Oh,Wisdom of Sea and Sky,Croconaw,159.0,Alligates,アリゲイツ,2.0,90,Water,2.0,A4 167,A4 048
+A4 048,nagimiso,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Feraligatr,160.0,Ordile,オーダイル,3.0,150,Water,2.0,A4 167;A4 047,
+A4 049,Atsuko Nishida,◇,Ho-Oh,Wisdom of Sea and Sky,Marill,183.0,Maril,マリル,1.0,60,Water,2.0,,A4 050
+A4 050,Naoyo Kimura,◇◇,Ho-Oh,Wisdom of Sea and Sky,Azumarill,184.0,Marilli,マリルリ,2.0,110,Water,2.0,A4 049,
+A4 057,Narumi Sato,◇◇,Ho-Oh,Wisdom of Sea and Sky,Delibird,225.0,Delibird,デリバード,2.0,70,Water,2.0,,
+A4 062,MAHOU,◇,Ho-Oh,Wisdom of Sea and Sky,Ducklett,580.0,Koaruhie,コアルヒー,1.0,60,Water,5.0,,A4 063
+A4 063,chibi,◇◇,Ho-Oh,Wisdom of Sea and Sky,Swanna,581.0,Swanna,スワンナ,2.0,80,Water,5.0,A4 062,
+A4 071,Kazumasa Yasukuni,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Raikou,243.0,Raikou,ライコウ,3.0,90,Electric,2.0,,
+A4 075,Sumiyoshi Kizuki,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Smoochum,238.0,Muchul,ムチュール,3.0,30,Psychic,2.0,,
+A4 078,Sekio,◇,Ho-Oh,Wisdom of Sea and Sky,Togepi,175.0,Togepy,トゲピー,1.0,60,Psychic,2.0,,A4 079
+A4 079,Atsuko Nishida,◇◇,Ho-Oh,Wisdom of Sea and Sky,Togetic,176.0,Togechick,トゲチック,2.0,90,Psychic,2.0,A4 173,A4 080
+A4 080,sui,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Togekiss,468.0,Togekiss,トゲキッス,3.0,140,Psychic,4.0,A4 173;A4 079,
+A4 084,OKUBO,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Unown,201.0,Unknown,アンノーン,3.0,60,Psychic,2.0,,
+A4 087,Miki Tanaka,◇,Ho-Oh,Wisdom of Sea and Sky,Girafarig,203.0,Kirinriki,キリンリキ,1.0,80,Psychic,2.0,,
+A4 092,KEIICHIRO ITO,◇,Ho-Oh,Wisdom of Sea and Sky,Onix,95.0,Iwark,イワーク,1.0,100,Fighting,1.0,,A4 122
+A4 094,Mina Nakai,◇,Ho-Oh,Wisdom of Sea and Sky,Gligar,207.0,Gliger,グライガー,1.0,60,Fighting,2.0,,A4 095
+A4 095,Shiburingaru,◇◇,Ho-Oh,Wisdom of Sea and Sky,Gliscor,472.0,Glion,グライオン,2.0,100,Fighting,4.0,A4 176,
+A4 096,Yukiko Baba,◇,Ho-Oh,Wisdom of Sea and Sky,Swinub,220.0,Urimoo,ウリムー,1.0,70,Fighting,2.0,,A4 097
+A4 097,Midori Harada,◇◇,Ho-Oh,Wisdom of Sea and Sky,Piloswine,221.0,Inomoo,イノムー,2.0,100,Fighting,2.0,A4 096,A4 098
+A4 098,Uta,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Mamoswine,222.0,Mammoo,マンムー,3.0,160,Fighting,2.0,A4 096;A4 097,
+A4 099,Midori Harada,◇,Ho-Oh,Wisdom of Sea and Sky,Phanpy,231.0,Gomazou,ゴマゾウ,1.0,70,Fighting,2.0,,A4 206
+A4 100,PLANETA Yamashita,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,3.0,160,Fighting,2.0,A4 099,
+A4 101,Mina Nakai,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tyrogue,236.0,Balkie,バルキー,3.0,30,Fighting,2.0,,
+A4 103,Naoyo Kimura,◇,Ho-Oh,Wisdom of Sea and Sky,Larvitar,246.0,Yogiras,ヨーギラス,1.0,60,Fighting,2.0,,A4 104
+A4 104,Sekio,◇◇,Ho-Oh,Wisdom of Sea and Sky,Pupitar,247.0,Sanagiras,サナギラス,2.0,80,Fighting,2.0,A4 103,A4 179
+A4 107,Shigenori Negishi,◇,Ho-Oh,Wisdom of Sea and Sky,Zubat,41.0,Zubat,ズバット,1.0,50,Darkness,1.0,,A4 108
+A4 108,kawayoo,◇◇,Ho-Oh,Wisdom of Sea and Sky,Golbat,42.0,Golbat,ゴルバット,2.0,70,Darkness,1.0,A4 107,A4 207
+A4 109,PLANETA CG Works,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,4.0,170,Darkness,2.0,A4 107;A4 108,
+A4 110,Sachiko Adachi,◇,Ho-Oh,Wisdom of Sea and Sky,Spinarak,167.0,Itomaru,イトマル,1.0,60,Darkness,2.0,,A4 111
+A4 111,Shinji Kanda,◇◇,Ho-Oh,Wisdom of Sea and Sky,Ariados,168.0,Ariados,アリアドス,2.0,80,Darkness,2.0,A4 177,
+A4 112,PLANETA CG Works,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,4.0,140,Darkness,2.0,A4 134,
+A4 119,Hasuno,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Tyranitar,248.0,Bangiras,バンギラス,3.0,160,Darkness,2.0,A4 103;A4 104,
+A4 122,KEIICHIRO ITO,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Steelix,208.0,Haganeil,ハガネール,3.0,150,Metal,2.0,A4 092,
+A4 124,PLANETA Yamashita,◇◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,4.0,140,Metal,2.0,,
+A4 126,Akira Komayama,◇,Ho-Oh,Wisdom of Sea and Sky,Klink,599.0,Giaru,ギアル,1.0,60,Metal,5.0,,A4 127
+A4 127,Akira Komayama,◇◇,Ho-Oh,Wisdom of Sea and Sky,Klang,600.0,Gigiaru,ギギアル,2.0,40,Metal,5.0,A4 126,A4 128
+A4 128,Akira Komayama,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Klinklang,601.0,Gigigiaru,ギギギアル,3.0,70,Metal,5.0,A4 126;A4 127,
+A4 129,Shin Nagasawa,◇,Ho-Oh,Wisdom of Sea and Sky,Spearow,21.0,Onisuzume,オニスズメ,1.0,70,Colorless,1.0,,A4 130
+A4 130,Shin Nagasawa,◇,Ho-Oh,Wisdom of Sea and Sky,Fearow,22.0,Onidrill,オニドリル,1.0,90,Colorless,1.0,A4 129,
+A4 131,miki kudo,◇,Ho-Oh,Wisdom of Sea and Sky,Chansey,113.0,Lucky,ラッキー,1.0,100,Colorless,1.0,,A4 185
+A4 132,Mizue,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Blissey,242.0,Happinas,ハピナス,3.0,150,Colorless,2.0,A4 131,
+A4 133,Toshinao Aoki,◇◇◇,Ho-Oh,Wisdom of Sea and Sky,Kangaskhan,115.0,Garura,ガルーラ,3.0,100,Colorless,1.0,,
+A4 138,Mina Nakai,◇,Ho-Oh,Wisdom of Sea and Sky,Sentret,161.0,Otachi,オタチ,1.0,60,Colorless,2.0,,A4 139
+A4 139,tetsuya koizumi,◇,Ho-Oh,Wisdom of Sea and Sky,Furret,162.0,Ootachi,オオタチ,1.0,90,Colorless,2.0,A4 181,
+A4 140,Yumi,◇,Ho-Oh,Wisdom of Sea and Sky,Hoothoot,163.0,Hoho,ホーホー,1.0,50,Colorless,2.0,,A4 141
+A4 141,Nisota Niso,◇,Ho-Oh,Wisdom of Sea and Sky,Noctowl,164.0,Yorunozuku,ヨルノズク,1.0,100,Colorless,2.0,A4 182,
+A4 145,Mizue,◇,Ho-Oh,Wisdom of Sea and Sky,Teddiursa,216.0,Himeguma,ヒメグマ,1.0,60,Colorless,2.0,,A4 146
+A4 146,Kouki Saitou,◇◇,Ho-Oh,Wisdom of Sea and Sky,Ursaring,217.0,Ringuma,リングマ,2.0,120,Colorless,2.0,A4 145,
+A4 147,sui,◇◇,Ho-Oh,Wisdom of Sea and Sky,Stantler,234.0,Odoshishi,オドシシ,2.0,80,Colorless,2.0,,
+A4 153,Studio Bora Inc.,◇◇,Ho-Oh,Wisdom of Sea and Sky,Steel Apron,,Haganenomaekake,鋼鉄のまえかけ,2.0,,,,,
+A4 154,Toyste Beach,◇◇,Ho-Oh,Wisdom of Sea and Sky,Dark Pendant,,Darkpendant,ダークペンダント,2.0,,,,,
+A4 158,Hideki Ishikawa,◇◇,Ho-Oh,Wisdom of Sea and Sky,Silver,,Silver,シルバー,2.0,,Supporter,,,
+A4 160,En Morikura,◇◇,Ho-Oh,Wisdom of Sea and Sky,Jasmine,,Mikan,ミカン,2.0,,Supporter,,,
+A4 161,Hitoshi Ariga,◇◇,Ho-Oh,Wisdom of Sea and Sky,Hiker,,Yamaotoko,やまおとこ,2.0,,Supporter,,,
+A4 164,GOSSAN,☆,Ho-Oh,Wisdom of Sea and Sky,Heracross,214.0,Heracros,ヘラクロス,5.0,90,Grass,2.0,,
+A4 166,Makura Tami,☆,Ho-Oh,Wisdom of Sea and Sky,Magby,240.0,Buby,ブビィ,5.0,30,Fire,2.0,,
+A4 167,Ayako Ozaki,☆,Ho-Oh,Wisdom of Sea and Sky,Totodile,158.0,Waninoko,ワニノコ,5.0,60,Water,2.0,,A4 047
+A4 170,Mekayu,☆,Ho-Oh,Wisdom of Sea and Sky,Delibird,225.0,Delibird,デリバード,5.0,70,Water,2.0,,
+A4 173,Terada Tera,☆,Ho-Oh,Wisdom of Sea and Sky,Togepi,175.0,Togepy,トゲピー,5.0,60,Psychic,2.0,,A4 079
+A4 176,HYOGONOSUKE,☆,Ho-Oh,Wisdom of Sea and Sky,Gligar,207.0,Gliger,グライガー,5.0,60,Fighting,2.0,,A4 095
+A4 177,IKEDA Saki,☆,Ho-Oh,Wisdom of Sea and Sky,Spinarak,167.0,Itomaru,イトマル,5.0,60,Darkness,2.0,,A4 111
+A4 179,Saboteri,☆,Ho-Oh,Wisdom of Sea and Sky,Tyranitar,248.0,Bangiras,バンギラス,5.0,160,Darkness,2.0,A4 103;A4 104,
+A4 181,saino misaki,☆,Ho-Oh,Wisdom of Sea and Sky,Sentret,161.0,Otachi,オタチ,5.0,60,Colorless,2.0,,A4 139
+A4 182,Uninori,☆,Ho-Oh,Wisdom of Sea and Sky,Hoothoot,163.0,Hoho,ホーホー,5.0,50,Colorless,2.0,,A4 141
+A4 183,Noriaki Tanimura,☆,Ho-Oh,Wisdom of Sea and Sky,Stantler,234.0,Odoshishi,オドシシ,5.0,80,Colorless,2.0,,
+A4 185,MINAMINAMI Take,☆,Ho-Oh,Wisdom of Sea and Sky,Blissey,242.0,Happinas,ハピナス,5.0,150,Colorless,2.0,A4 131,
+A4 187,PLANETA CG Works,☆☆,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,6.0,150,Fire,2.0,,
+A4 191,PLANETA Yamashita,☆☆,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,6.0,160,Fighting,2.0,A4 099,
+A4 192,PLANETA Mochizuki,☆☆,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,6.0,170,Darkness,2.0,A4 107;A4 108,
+A4 193,PLANETA CG Works,☆☆,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,6.0,140,Darkness,2.0,A4 134,
+A4 194,PLANETA Igarashi,☆☆,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,6.0,140,Metal,2.0,,
+A4 198,Teeziro,☆☆,Ho-Oh,Wisdom of Sea and Sky,Silver,,Silver,シルバー,6.0,,Supporter,,,
+A4 200,En Morikura,☆☆,Ho-Oh,Wisdom of Sea and Sky,Jasmine,,Mikan,ミカン,6.0,,Supporter,,,
+A4 201,Hideki Ishikawa,☆☆,Ho-Oh,Wisdom of Sea and Sky,Hiker,,Yamaotoko,やまおとこ,6.0,,Supporter,,,
+A4 206,Yuriko Akase,☆☆,Ho-Oh,Wisdom of Sea and Sky,Donphan ex,232.0,Donfan,ドンファン,6.0,160,Fighting,2.0,A4 099,
+A4 207,Shinji Kanda,☆☆,Ho-Oh,Wisdom of Sea and Sky,Crobat ex,169.0,Crobat,クロバット,6.0,170,Darkness,2.0,A4 107;A4 108,
+A4 208,AKIRA EGAWA,☆☆,Ho-Oh,Wisdom of Sea and Sky,Umbreon ex,197.0,Blacky,ブラッキー,6.0,140,Darkness,2.0,A4 134,
+A4 209,toriyufu,☆☆,Ho-Oh,Wisdom of Sea and Sky,Skarmory ex,227.0,Airmd,エアームド,6.0,140,Metal,2.0,,
+A4 210,SIE NANAHARA,☆☆☆,Ho-Oh,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,7.0,150,Fire,2.0,,
+A4 212,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Yanma,193.0,Yanyanma,ヤンヤンマ,8.0,60,Grass,2.0,,A4 019;A4 232
+A4 213,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Flareon,136.0,Booster,ブースター,8.0,110,Fire,1.0,A4 134,
+A4 220,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Misdreavus,200.0,Muma,ムウマ,8.0,60,Psychic,2.0,,A4 237
+A4 221,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Mankey,56.0,Mankey,マンキー,8.0,50,Fighting,1.0,,A4 222
+A4 222,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Primeape,57.0,Okorizaru,オコリザル,8.0,90,Fighting,1.0,A4 221,
+A4 226,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidoran♂,32.0,Nidoran♂ニドラン♂,,8.0,60,Darkness,1.0,,
+A4 227,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidorino,33.0,Nidorino,ニドリーノ,8.0,90,Darkness,1.0,,A4 228
+A4 228,Souichirou Gunjima,✸,Ho-Oh,Wisdom of Sea and Sky,Nidoking,34.0,Nidoking,ニドキング,8.0,150,Darkness,1.0,A4 227,
+A4 230,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Lickitung,108.0,Beroringa,ベロリンガ,8.0,80,Colorless,1.0,,A4 239
+A4 231,MAHOU,✸,Ho-Oh,Wisdom of Sea and Sky,Eevee,133.0,Eievui,イーブイ,8.0,60,Colorless,1.0,,A4 216;A4 219;A4 213;A4 235;A4 233;A4 205;A4 208
+A4 232,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Yanmega ex,469.0,Megayanma,メガヤンマ,9.0,140,Grass,4.0,A4 018,
+A4 233,PLANETA CG Works,✸✸,Ho-Oh,Wisdom of Sea and Sky,Leafeon ex,470.0,Leafia,リーフィア,9.0,140,Grass,4.0,A4 134,
+A4 237,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Mismagius ex,429.0,Mumargi,ムウマージ,9.0,140,Psychic,4.0,A4 220,
+A4 239,PLANETA Tsuji,✸✸,Ho-Oh,Wisdom of Sea and Sky,Lickilicky ex,463.0,Berobelt,ベロベルト,9.0,160,Colorless,4.0,A4 230,
+A4 001,ryoma uratsuka,◇,Lugia,Wisdom of Sea and Sky,Oddish,43.0,Nazonokusa,ナゾノクサ,1.0,50,Grass,1.0,,A4 002
+A4 002,Kyoko Umemoto,◇◇,Lugia,Wisdom of Sea and Sky,Gloom,44.0,Kusaihana,クサイハナ,2.0,80,Grass,1.0,A4 001,A4 163
+A4 003,Nagomi Nijo,◇◇◇,Lugia,Wisdom of Sea and Sky,Bellossom,182.0,Kireihana,キレイハナ,3.0,130,Grass,2.0,A4 001;A4 002,
+A4 006,Narumi Sato,◇,Lugia,Wisdom of Sea and Sky,Scyther,123.0,Strike,ストライク,1.0,70,Grass,1.0,,A4 180
+A4 007,Toshinao Aoki,◇,Lugia,Wisdom of Sea and Sky,Pinsir,127.0,Kailios,カイロス,1.0,90,Grass,1.0,,
+A4 008,Naoyo Kimura,◇,Lugia,Wisdom of Sea and Sky,Chikorita,152.0,Chicorita,チコリータ,1.0,60,Grass,2.0,,A4 009
+A4 009,Mizue,◇◇,Lugia,Wisdom of Sea and Sky,Bayleef,153.0,Bayleaf,ベイリーフ,2.0,90,Grass,2.0,A4 162,A4 010
+A4 010,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Meganium,154.0,Meganium,メガニウム,3.0,150,Grass,2.0,A4 162;A4 009,
+A4 011,Sumiyoshi Kizuki,◇,Lugia,Wisdom of Sea and Sky,Ledyba,165.0,Rediba,レディバ,1.0,60,Grass,2.0,,A4 012
+A4 012,Hitoshi Ariga,◇,Lugia,Wisdom of Sea and Sky,Ledian,166.0,Redian,レディアン,1.0,80,Grass,2.0,A4 011,
+A4 021,PLANETA Mochizuki,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,4.0,120,Grass,2.0,,
+A4 025,Shibuzoh.,◇,Lugia,Wisdom of Sea and Sky,Vulpix,37.0,Rokon,ロコン,1.0,60,Fire,1.0,,A4 026
+A4 026,AKIRA EGAWA,◇◇◇,Lugia,Wisdom of Sea and Sky,Ninetales,38.0,Kyukon,キュウコン,3.0,100,Fire,1.0,A4 025,
+A4 027,kirisAki,◇,Lugia,Wisdom of Sea and Sky,Cyndaquil,155.0,Hinoarashi,ヒノアラシ,1.0,60,Fire,2.0,,A4 028
+A4 028,Shin Nagasawa,◇◇,Lugia,Wisdom of Sea and Sky,Quilava,156.0,Magmarashi,マグマラシ,2.0,80,Fire,2.0,A4 165,A4 029
+A4 029,Hideki Ishikawa,◇◇◇,Lugia,Wisdom of Sea and Sky,Typhlosion,157.0,Bakphoon,バクフーン,3.0,140,Fire,2.0,A4 165;A4 028,
+A4 038,Asako Ito,◇,Lugia,Wisdom of Sea and Sky,Poliwag,60.0,Nyoromo,ニョロモ,1.0,60,Water,1.0,,A4 039
+A4 039,Scav,◇◇,Lugia,Wisdom of Sea and Sky,Poliwhirl,61.0,Nyorozo,ニョロゾ,2.0,90,Water,1.0,A4 038,A4 040
+A4 040,Masakazu Fukuda,◇◇◇,Lugia,Wisdom of Sea and Sky,Politoed,186.0,Nyorotono,ニョロトノ,3.0,140,Water,2.0,A4 038;A4 039,
+A4 041,Yukiko Baba,◇,Lugia,Wisdom of Sea and Sky,Horsea,116.0,Tattu,タッツー,1.0,50,Water,1.0,,A4 042
+A4 042,sui,◇◇,Lugia,Wisdom of Sea and Sky,Seadra,117.0,Seadra,シードラ,2.0,80,Water,1.0,A4 041,A4 203
+A4 043,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,4.0,170,Water,2.0,A4 041;A4 042,
+A4 044,Shigenori Negishi,◇,Lugia,Wisdom of Sea and Sky,Magikarp,129.0,Koiking,コイキング,1.0,30,Water,1.0,,A4 215;A4 234
+A4 045,hatachu,◇◇◇,Lugia,Wisdom of Sea and Sky,Gyarados,130.0,Gyarados,ギャラドス,3.0,130,Water,1.0,A4 214,
+A4 051,Shibuzoh.,◇,Lugia,Wisdom of Sea and Sky,Wooper,194.0,Upah,ウパー,1.0,70,Water,2.0,,A4 052
+A4 052,Kagemaru Himeno,◇◇,Lugia,Wisdom of Sea and Sky,Quagsire,195.0,Nuoh,ヌオー,2.0,130,Water,2.0,A4 051,
+A4 053,Shin Nagasawa,◇◇,Lugia,Wisdom of Sea and Sky,Qwilfish,211.0,Harysen,ハリーセン,2.0,80,Water,2.0,,
+A4 054,Mekayu,◇,Lugia,Wisdom of Sea and Sky,Corsola,222.0,Sunnygo,サニーゴ,1.0,80,Water,2.0,,
+A4 055,Suwama Chiaki,◇,Lugia,Wisdom of Sea and Sky,Remoraid,223.0,Teppouo,テッポウオ,1.0,60,Water,2.0,,A4 169
+A4 056,Kagemaru Himeno,◇◇◇,Lugia,Wisdom of Sea and Sky,Octillery,224.0,Okutank,オクタン,3.0,100,Water,2.0,A4 055,
+A4 058,0313,◇◇,Lugia,Wisdom of Sea and Sky,Mantine,226.0,Mantain,マンタイン,2.0,100,Water,2.0,,
+A4 059,Anesaki Dynamic,◇◇◇,Lugia,Wisdom of Sea and Sky,Suicune,245.0,Suicune,スイクン,3.0,100,Water,2.0,,
+A4 060,chibi,◇,Lugia,Wisdom of Sea and Sky,Corphish,341.0,Heigani,ヘイガニ,1.0,60,Water,3.0,,A4 061
+A4 061,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Crawdaunt,342.0,Shizariger,シザリガー,3.0,100,Water,3.0,A4 060,
+A4 064,Miki Tanaka,◇,Lugia,Wisdom of Sea and Sky,Chinchou,170.0,Chonchie,チョンチー,1.0,70,Electric,2.0,,A4 204
+A4 065,PLANETA Igarashi,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,4.0,150,Electric,2.0,A4 064,
+A4 066,Kariya,◇◇◇,Lugia,Wisdom of Sea and Sky,Pichu,172.0,Pichu,ピチュー,3.0,30,Electric,2.0,,
+A4 067,0313,◇,Lugia,Wisdom of Sea and Sky,Mareep,179.0,Merriep,メリープ,1.0,60,Electric,2.0,,A4 068
+A4 068,MAHOU,◇◇,Lugia,Wisdom of Sea and Sky,Flaaffy,180.0,Mokoko,モココ,2.0,90,Electric,2.0,A4 067,A4 172
+A4 069,Kouki Saitou,◇◇◇,Lugia,Wisdom of Sea and Sky,Ampharos,181.0,Denryu,デンリュウ,3.0,150,Electric,2.0,A4 067;A4 068,
+A4 070,Miki Tanaka,◇◇◇,Lugia,Wisdom of Sea and Sky,Elekid,239.0,Elekid,エレキッド,3.0,30,Electric,2.0,,
+A4 073,Aya Kusube,◇,Lugia,Wisdom of Sea and Sky,Slowpoke,79.0,Yadon,ヤドン,1.0,70,Psychic,1.0,,
+A4 074,Kagemaru Himeno,◇◇,Lugia,Wisdom of Sea and Sky,Slowking,199.0,Yadoking,ヤドキング,2.0,110,Psychic,2.0,,
+A4 077,Orca,◇◇◇,Lugia,Wisdom of Sea and Sky,Cleffa,173.0,Py,ピィ,3.0,30,Psychic,2.0,,
+A4 081,Masakazu Fukuda,◇,Lugia,Wisdom of Sea and Sky,Natu,177.0,Naty,ネイティ,1.0,50,Psychic,2.0,,A4 174
+A4 082,Hajime Kusajima,◇◇◇,Lugia,Wisdom of Sea and Sky,Xatu,178.0,Natio,ネイティオ,3.0,80,Psychic,2.0,A4 081,
+A4 083,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,4.0,140,Psychic,2.0,A4 134,
+A4 085,Anesaki Dynamic,◇◇◇,Lugia,Wisdom of Sea and Sky,Unown,201.0,Unknown,アンノーン,3.0,60,Psychic,2.0,,
+A4 086,Masakazu Fukuda,◇,Lugia,Wisdom of Sea and Sky,Wobbuffet,202.0,Sonans,ソーナンス,1.0,90,Psychic,2.0,,
+A4 105,Saya Tsuruta,◇,Lugia,Wisdom of Sea and Sky,Binacle,688.0,Kametete,カメテテ,1.0,80,Fighting,6.0,,A4 106
+A4 106,Nurikabe,◇◇,Lugia,Wisdom of Sea and Sky,Barbaracle,689.0,Gamenodes,ガメノデス,2.0,120,Fighting,6.0,A4 105,
+A4 113,Sekio,◇,Lugia,Wisdom of Sea and Sky,Murkrow,198.0,Yamikarasu,ヤミカラス,1.0,60,Darkness,2.0,,A4 114
+A4 114,Shiburingaru,◇◇,Lugia,Wisdom of Sea and Sky,Honchkrow,430.0,Dongkarasu,ドンカラス,2.0,120,Darkness,4.0,A4 178,
+A4 115,yuu,◇,Lugia,Wisdom of Sea and Sky,Sneasel,215.0,Nyula,ニューラ,1.0,60,Darkness,2.0,,A4 116;A4 238
+A4 116,kawayoo,◇◇,Lugia,Wisdom of Sea and Sky,Weavile,461.0,Manyula,マニューラ,2.0,80,Darkness,4.0,A4 229,
+A4 123,Ryuta Fuse,◇◇◇,Lugia,Wisdom of Sea and Sky,Scizor,212.0,Hassam,ハッサム,3.0,100,Metal,2.0,A4 006,
+A4 135,ryoma uratsuka,◇,Lugia,Wisdom of Sea and Sky,Porygon,137.0,Porygon,ポリゴン,1.0,60,Colorless,1.0,,A4 136
+A4 136,Nagomi Nijo,◇◇,Lugia,Wisdom of Sea and Sky,Porygon2,233.0,Porygon2,ポリゴン２,2.0,80,Colorless,2.0,A4 135,A4 137
+A4 137,Tomokazu Komiya,◇◇◇,Lugia,Wisdom of Sea and Sky,Porygon-Z,474.0,Porygon-z,ポリゴンＺ,3.0,130,Colorless,4.0,A4 135;A4 136,
+A4 148,Sumiyoshi Kizuki,◇◇,Lugia,Wisdom of Sea and Sky,Smeargle,235.0,Doble,ドーブル,2.0,70,Colorless,2.0,,
+A4 149,PLANETA CG Works,◇◇◇◇,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,4.0,150,Colorless,2.0,,
+A4 151,Toyste Beach,◇◇,Lugia,Wisdom of Sea and Sky,Elemental Switch,,Elementaltsukekae,エレメンタルつけかえ,2.0,,,,,
+A4 152,AYUMI ODASHIMA,◇◇,Lugia,Wisdom of Sea and Sky,Squirt Bottle,,Zenigamejouro,ゼニガメじょうろ,2.0,,,,,
+A4 156,GIDORA,◇◇,Lugia,Wisdom of Sea and Sky,Will,,Itsuki,イツキ,2.0,,Supporter,,,
+A4 157,yuu,◇◇,Lugia,Wisdom of Sea and Sky,Lyra,,Kotone,コトネ,2.0,,Supporter,,,
+A4 159,Sanosuke Sakuma,◇◇,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,2.0,,,,,
+A4 162,Keisin,☆,Lugia,Wisdom of Sea and Sky,Chikorita,152.0,Chicorita,チコリータ,5.0,60,Grass,2.0,,A4 009
+A4 163,Yuka Tanaka,☆,Lugia,Wisdom of Sea and Sky,Bellossom,182.0,Kireihana,キレイハナ,5.0,130,Grass,2.0,A4 001;A4 002,
+A4 165,buchi,☆,Lugia,Wisdom of Sea and Sky,Cyndaquil,155.0,Hinoarashi,ヒノアラシ,5.0,60,Fire,2.0,,A4 028
+A4 168,June,☆,Lugia,Wisdom of Sea and Sky,Qwilfish,211.0,Harysen,ハリーセン,5.0,80,Water,2.0,,
+A4 169,REND,☆,Lugia,Wisdom of Sea and Sky,Octillery,224.0,Okutank,オクタン,5.0,100,Water,2.0,A4 055,
+A4 171,Kanami Ogata,☆,Lugia,Wisdom of Sea and Sky,Pichu,172.0,Pichu,ピチュー,5.0,30,Electric,2.0,,
+A4 172,Whisker,☆,Lugia,Wisdom of Sea and Sky,Ampharos,181.0,Denryu,デンリュウ,5.0,150,Electric,2.0,A4 067;A4 068,
+A4 174,Masako Tomii,☆,Lugia,Wisdom of Sea and Sky,Xatu,178.0,Natio,ネイティオ,5.0,80,Psychic,2.0,A4 081,
+A4 175,GOTO minori,☆,Lugia,Wisdom of Sea and Sky,Wobbuffet,202.0,Sonans,ソーナンス,5.0,90,Psychic,2.0,,
+A4 178,kamonabe,☆,Lugia,Wisdom of Sea and Sky,Murkrow,198.0,Yamikarasu,ヤミカラス,5.0,60,Darkness,2.0,,A4 114
+A4 180,danciao,☆,Lugia,Wisdom of Sea and Sky,Scizor,212.0,Hassam,ハッサム,5.0,100,Metal,2.0,A4 006,
+A4 184,MINAMINAMI Take,☆,Lugia,Wisdom of Sea and Sky,Smeargle,235.0,Doble,ドーブル,5.0,70,Colorless,2.0,,
+A4 186,PLANETA Mochizuki,☆☆,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,6.0,120,Grass,2.0,,
+A4 188,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,6.0,170,Water,2.0,A4 041;A4 042,
+A4 189,PLANETA Igarashi,☆☆,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,6.0,150,Electric,2.0,A4 064,
+A4 190,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,6.0,140,Psychic,2.0,A4 134,
+A4 195,PLANETA CG Works,☆☆,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,6.0,150,Colorless,2.0,,
+A4 196,GIDORA,☆☆,Lugia,Wisdom of Sea and Sky,Will,,Itsuki,イツキ,6.0,,Supporter,,,
+A4 197,yuu,☆☆,Lugia,Wisdom of Sea and Sky,Lyra,,Kotone,コトネ,6.0,,Supporter,,,
+A4 199,Sanosuke Sakuma,☆☆,Lugia,Wisdom of Sea and Sky,Fisher,,Tsurihito,釣り人,6.0,,Supporter,,,
+A4 202,Yoshimi Miyoshi,☆☆,Lugia,Wisdom of Sea and Sky,Shuckle ex,213.0,Tsubotsubo,ツボツボ,6.0,120,Grass,2.0,,
+A4 203,Takumi Wada,☆☆,Lugia,Wisdom of Sea and Sky,Kingdra ex,230.0,Kingdra,キングドラ,6.0,170,Water,2.0,A4 041;A4 042,
+A4 204,Fujimoto Gold,☆☆,Lugia,Wisdom of Sea and Sky,Lanturn ex,171.0,Lantern,ランターン,6.0,150,Electric,2.0,A4 064,
+A4 205,Taira Akitsu,☆☆,Lugia,Wisdom of Sea and Sky,Espeon ex,196.0,Eifie,エーフィ,6.0,140,Psychic,2.0,A4 134,
+A4 211,SIE NANAHARA,☆☆☆,Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,7.0,150,Colorless,2.0,,
+A4 214,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Magikarp,129.0,Koiking,コイキング,8.0,30,Water,1.0,,A4 215;A4 234
+A4 215,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Gyarados,130.0,Gyarados,ギャラドス,8.0,130,Water,1.0,A4 214,
+A4 216,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Vaporeon,134.0,Showers,シャワーズ,8.0,130,Water,1.0,A4 134,
+A4 217,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Magnemite,81.0,Coil,コイル,8.0,60,Electric,1.0,,A4 218
+A4 218,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Magneton,82.0,Rarecoil,レアコイル,8.0,80,Electric,1.0,A4 217,
+A4 219,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Jolteon,135.0,Thunders,サンダース,8.0,90,Electric,1.0,A4 134,
+A4 223,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidoran ♀,29.0,Nidoran♀ニドラン♀,,8.0,60,Darkness,1.0,,A4 224
+A4 224,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidorina,30.0,Nidorina,ニドリーナ,8.0,80,Darkness,1.0,A4 223,A4 225
+A4 225,Souichirou Gunjima,✸,Lugia,Wisdom of Sea and Sky,Nidoqueen,31.0,Nidoqueen,ニドクイン,8.0,140,Darkness,1.0,A4 223;A4 224,
+A4 229,MAHOU,✸,Lugia,Wisdom of Sea and Sky,Sneasel,215.0,Nyula,ニューラ,8.0,60,Darkness,2.0,,A4 116;A4 238
+A4 234,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Gyarados ex,130.0,Gyarados,ギャラドス,9.0,180,Water,1.0,A4 214,
+A4 235,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Glaceon ex,471.0,Glacia,グレイシア,9.0,140,Water,4.0,A4 134,
+A4 236,PLANETA Tsuji,✸✸,Lugia,Wisdom of Sea and Sky,Pachirisu ex,417.0,Pachirisu,パチリス,9.0,120,Electric,4.0,,
+A4 238,PLANETA CG Works,✸✸,Lugia,Wisdom of Sea and Sky,Weavile ex,461.0,Manyula,マニューラ,9.0,140,Darkness,4.0,A4 229,
+A4 016,0313,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sunkern,191.0,Himanuts,ヒマナッツ,1.0,40,Grass,2.0,,A4 017
+A4 017,Yumi,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sunflora,192.0,Kimawari,キマワリ,2.0,90,Grass,2.0,A4 016,
+A4 018,Tomokazu Komiya,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Yanma,193.0,Yanyanma,ヤンヤンマ,1.0,60,Grass,2.0,,A4 019;A4 232
+A4 019,Uta,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Yanmega,469.0,Megayanma,メガヤンマ,2.0,90,Grass,4.0,A4 018,
+A4 020,Suwama Chiaki,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Pineco,204.0,Kunugidama,クヌギダマ,1.0,60,Grass,2.0,,A4 121
+A4 023,Saya Tsuruta,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Cherubi,420.0,Cherinbo,チェリンボ,1.0,50,Grass,4.0,,A4 024
+A4 024,Atsuko Nishida,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Cherrim,421.0,Cherrim,チェリム,2.0,80,Grass,4.0,A4 023,
+A4 035,Yuka Morii,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Darumaka,554.0,Darumakka,ダルマッカ,1.0,70,Fire,5.0,,A4 036
+A4 036,Naoki Saito,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Darmanitan,555.0,Hihidaruma,ヒヒダルマ,2.0,120,Fire,5.0,A4 035,
+A4 037,match,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Heatmor,631.0,Kuitaran,クイタラン,1.0,90,Fire,5.0,,
+A4 072,Saya Tsuruta,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Emolga,587.0,Emonga,エモンガ,1.0,70,Electric,5.0,,
+A4 076,Midori Harada,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Jynx,124.0,Rougela,ルージュラ,1.0,80,Psychic,1.0,,
+A4 088,Akira Komayama,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Snubbull,209.0,Bulu,ブルー,1.0,60,Psychic,2.0,,A4 089
+A4 089,Suwama Chiaki,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Granbull,210.0,Granbulu,グランブル,2.0,120,Psychic,2.0,A4 088,
+A4 090,miki kudo,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Munna,517.0,Munna,ムンナ,1.0,70,Psychic,5.0,,A4 091
+A4 091,MAHOU,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Musharna,518.0,Musharna,ムシャーナ,2.0,110,Psychic,5.0,A4 090,
+A4 093,AKIRA EGAWA,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Sudowoodo,185.0,Usokkie,ウソッキー,1.0,90,Fighting,2.0,,
+A4 102,Hisao Nakamura,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Hitmontop,237.0,Kapoerer,カポエラー,1.0,80,Fighting,2.0,,
+A4 117,Sumiyoshi Kizuki,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Houndour,228.0,Delvil,デルビル,1.0,60,Darkness,2.0,,A4 118
+A4 118,Shin Nagasawa,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Houndoom,229.0,Hellgar,ヘルガー,2.0,110,Darkness,2.0,A4 117,
+A4 120,kodama,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Absol,359.0,Absol,アブソル,2.0,80,Darkness,3.0,,
+A4 121,Tomokazu Komiya,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Forretress,205.0,Foretos,フォレトス,2.0,130,Metal,2.0,A4 020,
+A4 125,Kouki Saitou,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Mawile,303.0,Kucheat,クチート,1.0,70,Metal,3.0,,
+A4 134,sowsow,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Eevee,133.0,Eievui,イーブイ,1.0,60,Colorless,1.0,,A4 216;A4 219;A4 213;A4 235;A4 233;A4 205;A4 208
+A4 142,Naoyo Kimura,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Aipom,190.0,Eipam,エイパム,1.0,50,Colorless,2.0,,A4 143
+A4 143,Atsushi Furusawa,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ambipom,424.0,Eteboth,エテボース,2.0,100,Colorless,4.0,A4 142,
+A4 144,Kazuma Koda,◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Dunsparce,206.0,Nokocchi,ノコッチ,1.0,50,Colorless,2.0,,
+A4 150,nagimiso,◇◇,Ho-Oh;Lugia,Wisdom of Sea and Sky,Bouffalant,626.0,Buffron,バッフロン,2.0,100,Colorless,5.0,,
+A4 155,Ryo Ueda,,Ho-Oh;Lugia,Wisdom of Sea and Sky,Rescue Scarf,,Rescuescarf,レスキュースカーフ,,,Supporter,,,
+A4 240,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Ho-Oh ex,250.0,Houou,ホウオウ,10.0,150,Fire,2.0,,
+A4 241,PLANETA CG Works,♛,Ho-Oh;Lugia,Wisdom of Sea and Sky,Lugia ex,249.0,Lugia,ルギア,10.0,150,Colorless,2.0,,
